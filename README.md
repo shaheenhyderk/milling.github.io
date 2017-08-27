@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## CNC Milling Machine
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/milling.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://shaheenhyderk.github.io/shop.jpg" width="700" height="400">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This machine is mainly used to make PCB. It is also used for cutting aluminium,wood,ect. The machine in our lab is Shopbot milling machine. It can used for cutting,drilling,ect. Many bits are available such as 1/64, 1/32, 1/8, 1/4, etc. We should shoose according to our purpose.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Steps for using milling machine
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ Install eagle
+$ Design circuit using eagle
+$ Save it as 'png' file
+$ Open fab modules in browser
+$ Select the image 
+$ Select output to 'ShopBot (.sbp)'
+$ Select the process according to material
+$ Now open it in shopbot
+$ Set x, y and z
+$ Start the process
+$ Make sure the machine is on
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/milling.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Go To:
+ 
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/Programmer.github.io/)
